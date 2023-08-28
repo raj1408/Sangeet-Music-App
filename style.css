@@ -107,4 +107,7 @@ nav ul li{
         display: grid;
         gap: 4rem;
     }
+    .songinfo>img{
+        display : none;
+    }
 }
