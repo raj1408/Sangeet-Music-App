@@ -47,7 +47,7 @@ nav ul li{
     background-size : 95%;
 }
 .bottom{
-    position: sticky;
+    position: relative;
     height: 120px;
     background-color: black;
     bottom: 0;;
