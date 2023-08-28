@@ -44,6 +44,7 @@ nav ul li{
     height: 50%;
     padding: 34px;
     background-image: url(504570.jpg);
+    background-size : 95%;
 }
 .bottom{
     position: sticky;
@@ -82,6 +83,7 @@ nav ul li{
 .songitem img{
                  width: 45px;
                  border-radius: 50%;
+                 margin left 8%;
 }
 .timespan{
     margin: 10px 23px 25px 0px;
