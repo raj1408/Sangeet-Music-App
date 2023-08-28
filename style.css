@@ -84,7 +84,7 @@ nav ul li{
                  border-radius: 50%;
 }
 .timespan{
-    margin: 0 23px;
+    margin: 10px 23px 25px 0px;
 }
 .timespan i {
     cursor: pointer;
